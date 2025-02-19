@@ -4,7 +4,7 @@ This Flutter project is an basic AI-powered application that performs text class
 
 ### Preview
 
-![Project Preview](demo.gif)
+<img src="demo.gif" height="500"/>
 
 ### 1. Clone the repository
 
