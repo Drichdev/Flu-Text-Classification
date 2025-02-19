@@ -1,16 +1,31 @@
-## Application de texte
+## Application text classification
 
-A new Flutter project.
+This Flutter project is an basic AI-powered application that performs text classification directly on the device using a machine learning model. The app classifies messages to determine their intent based on a pre-trained model.
 
-## Getting Started
+### Preview
 
-This project is a starting point for a Flutter application.
+![Project Preview](demo.gif)
 
-A few resources to get you started if this is your first Flutter project:
+### 1. Clone the repository
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+First, clone this repository to your local machine:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone <link>
+```
+
+### 2. Install Dependencies
+
+Navigate to the project directory and run the following command to install all the necessary dependencies:
+
+```bash
+flutter pub get
+```
+
+### 3. Run the App
+
+Once the dependencies are installed, you can run the app using the following command:
+
+```bash
+flutter run
+```
