@@ -4,9 +4,7 @@ This Flutter project is an basic AI-powered application that performs text class
 
 ### Preview
 
-<div style="text-align: center;">
-    <img src="demo.gif" height="500"/>
-</div>
+<img src="demo.gif" height="500"/>
 
 ### 1. Clone the repository
 
